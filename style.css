@@ -10,7 +10,7 @@
 body {
     width: 100%;
     min-height: 100vh;
-    background: #6c5ce7;
+    background: #0ccc3f;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -51,14 +51,14 @@ body {
 }
 
 .wrapper .inputFields input[type="text"]:focus {
-    border-color: #6c5ce7;
+    border-color: #0ccc3f;
 }
 
 
 .wrapper .inputFields button.btn {
     width: 50px;
     height: 100%;
-    background: #6c5ce7;
+    background: #0ccc3f;
     color: #FFF;
     outline: none;
     border: none;
